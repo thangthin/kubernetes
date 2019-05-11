@@ -20,3 +20,4 @@
 - kubectl apply -f <filename>
 - kubectl get pods
 - kubectl get services
+- kubectl describe <object-type> <object-name>
