@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: thangthin/multi-worker
+          image: thangthin/multi-client
           ports:
             - containerPort: 3000

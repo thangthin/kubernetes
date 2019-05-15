@@ -21,3 +21,4 @@
 - kubectl get pods
 - kubectl get services
 - kubectl describe <object-type> <object-name>
+- kubectl delete -f <config-file-used-to-create-object>
